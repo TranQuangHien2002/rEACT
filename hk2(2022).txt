@@ -1,0 +1,7 @@
+Hệ thống và công nghệ Web (3): Đoàn Văn Thắng,cô khánh ,thầy trọng tiến,
+Mạng máy tính(3): cô thủy, thầy đăng,thầy hữu dũng, cô khoa
+Hệ quản trị cơ sở dữ liệu(3):cô Chi, cô Dung,Thầy Nguyễn Trần Kỹ , Thầy Lê Hữu Hùng , Thầy Thắng,thầy cương 
+lập trình hướng sự kiện java(4):  cô Anh Thi, thầy Phước
+Lý thuyết đồ thị(3):cô Thi, cô Hạnh
+Mô hình hóa dữ liệu NoSQL(3):
+thống kê máy tính và ứng dụng(3): thầy trần văn vinh, thầy thông,thầy Linh
